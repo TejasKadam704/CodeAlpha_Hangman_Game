@@ -40,12 +40,3 @@ The player must guess a randomly selected programming-related word by guessing l
 This is a simple educational project.
 Feel free to modify or extend the game (e.g., add ASCII art, difficulty levels, more words).
 
----
-
-If you'd like, I can also:
-✅ Add ASCII hangman drawings
-✅ Add difficulty levels
-✅ Convert this into a GUI version (Tkinter / PyQt)
-✅ Make an advanced version with scores and hints
-
-Just tell me!
