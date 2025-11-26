@@ -8,7 +8,7 @@ The player must guess a randomly selected programming-related word by guessing l
  Features/Libraries
 
 * Random word selection from a predefined programming-related list.
-
+  
 * Tracks:
 
   * Previously guessed letters
